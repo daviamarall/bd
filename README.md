@@ -7,7 +7,7 @@ Anotações e scripts de **banco de dados**: **PL/SQL (Oracle)** e **SQL Server*
 ### PL/SQL (Oracle) — `PL-SQL/`
 Scripts de instalação do Oracle, criação de conexão (SYS/HR), criação e população do schema HR, índices, `SELECT`, funções e joins.
 
-### SQL Server — Formação Básica — `SQLServer: Formação Básica/`
+### SQL Server — `SQLServer-Formacao-Basica/`
 Capítulos com scripts de DDL/DML, joins, índices, stored procedures, funções de agregação, backup e mascaramento dinâmico.
 - `glossario_bd.md` — glossário de termos
 - `notas.md` — notas de estudo
@@ -21,5 +21,3 @@ Documento e material de referência (PDFs) de apoio ao estudo.
 - [SQL Server — Docs](https://learn.microsoft.com/sql/)
 
 > Repositório de **estudos**, parte do meu portfólio de **backend / dados**.
-
-> ℹ️ Observação: a pasta `SQLServer: Formação Básica` usa `:` no nome, o que impede o clone em Windows por padrão.
